@@ -59,11 +59,7 @@ with st.sidebar:
 
 
 if selected =='Home':
-    img = Image.open('data/gbrr.jpg')
-        
     
-    
-
     # Struktur antarmuka
     st.title("🔍 Analisis Sentimen Ulasan Aplikasi E-Commerce")
     st.subheader("📊 Mengungkap Wawasan dari Ulasan Pengguna")
