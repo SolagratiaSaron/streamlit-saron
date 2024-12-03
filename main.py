@@ -73,7 +73,7 @@ if selected =='Home':
 
     with col1:
         # Menampilkan gambar ilustrasi
-        image_path = "D:/datamining/app/gbrhome.webp"  # Ubah path ke lokasi gambar Anda
+        image_path = "gbrhome.webp"  # Ubah path ke lokasi gambar Anda
         st.image(
             image_path,
             
