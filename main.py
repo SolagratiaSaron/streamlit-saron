@@ -155,7 +155,7 @@ elif selected =='Top 5 E-commerce':
     if selected3 =='Processing & Model Evaluasi':
         st.markdown("""
         ### **Langkah-Langkah Analisis Data**
-        1. **Unggah File CSV:** File CSV akan dianalisis.
+        1. **Pilih salah satu File CSV akan dianalisis dari Top 5 E-commerce.
         2. **Preprocessing Teks:** Teks akan diproses untuk menghilangkan karakter khusus, stopwords, tokenizing, dan stemming.
         3. **Analisis Sentimen:** Menggunakan lexicon untuk menentukan polaritas sentimen (positif, negatif, netral).
         4. **Pembangunan Model KNN:** Melatih model K-Nearest Neighbor untuk klasifikasi sentimen.
