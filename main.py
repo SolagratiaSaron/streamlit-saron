@@ -81,9 +81,7 @@ if selected =='Home':
         st.markdown(
             """
             <div class="feature-list">
-            🚀 **Aplikasi Analisis Sentimen E-Commerce** dirancang untuk membantu Anda memahami persepsi pelanggan terhadap layanan Anda.  
-            Dengan dukungan **K-Nearest Neighbor (KNN)** dan visualisasi interaktif, aplikasi ini memberikan wawasan penting untuk mendukung keputusan bisnis Anda.  
-            Berikut adalah fitur utama aplikasi kami:  
+            🚀 Aplikasi Analisis Sentimen E-Commerce dirancang untuk membantu Anda memahami persepsi pelanggan terhadap layanan Anda. Dengan dukungan K-Nearest Neighbor (KNN) dan visualisasi interaktif, aplikasi ini memberikan wawasan penting untuk mendukung keputusan bisnis Anda. Aplikasi ini sangat cocok untuk membantu UMKM (Usaha Mikro, Kecil, dan Menengah) dalam memahami preferensi suatu platform E-commerce tanpa memerlukan keahlian teknis mendalam.
             </div>
             """,
             unsafe_allow_html=True
