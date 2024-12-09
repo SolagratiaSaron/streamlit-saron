@@ -61,8 +61,7 @@ with st.sidebar:
 if selected =='Home':
     
     # Struktur antarmuka
-    st.title("🔍 
-Analisis Sentimen Ulasan Aplikasi E-Commerce untuk Membantu UMKM Memilih Platform yang Tepat")
+    st.title("🔍 Analisis Sentimen Ulasan Aplikasi E-Commerce untuk Membantu UMKM Memilih Platform yang Tepat")
     st.subheader("📊 Mengungkap Wawasan dari Ulasan Pengguna")
 
     # Membagi antarmuka menjadi dua kolom
