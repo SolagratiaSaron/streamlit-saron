@@ -49,7 +49,7 @@ nltk.download('stopwords')
 
 #======================================================================================================
 
-st.sidebar.title('Analisis Sentimen E-Commerce di Indonesia')
+st.sidebar.title('Analisis Sentimen E-Commerce di Indonesia Untuk UMKM')
 
 
 with st.sidebar:
